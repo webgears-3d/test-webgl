@@ -1,0 +1,19 @@
+{
+  "name": "aptitude-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "find-port": "2.0.1",
+    "raw-loader": "1.0.0",
+    "webpack": "4.29.1",
+    "webpack-cli": "3.2.3",
+    "webpack-dev-server": "3.1.14"
+  }
+}
