@@ -27,7 +27,7 @@ The task consist of two parts.
 
 Implement an orbit camera controller that moves camera around the scene over the sphere 
 depending on mouse movement. You don't need to care about event handling on CPU side - 
-this solution already handles all mouse movement and pass in to shader everything you need for 
+this solution already handles all mouse movement and pass in to shader everything you need for the
 task: the camera position (uCoords) is expressed in spherical coordinates (φ, θ, r)   and
 the target (uTarget) - the point where the camera must be looking at.
 
