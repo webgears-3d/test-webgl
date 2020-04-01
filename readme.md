@@ -1,12 +1,11 @@
 # **Rendering engineer aptitude test**
-
-The task is too easy. 
-It has only one goal - test base CG knowledges of a candidate before the live part of the interview.
+ 
+The task has only one goal - test base CG knowledges of a candidate before the live part of the interview.
 
 
 ##### Baseline data of the task
 
-You has a renderer. The renderer draws a scene - a plane and mechanism made of two gears (webgears :) ).
+You has a renderer. The renderer draws a scene - a plane and mechanism made of two gears (webgears, you know :) ).
 
 > ###### _<u>Note</u>: test renderer uses raymarching technique to render scene,_ 
 > ###### _it doesn't mean candidate must be familiar with that technique_
