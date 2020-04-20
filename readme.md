@@ -1,6 +1,6 @@
 # **Rendering engineer aptitude test**
  
-The task has only one goal - test base CG knowledges of a candidate before the live part of the interview.
+Test base CG knowledges of a candidate before the live part of the interview.
 
 
 ##### Baseline data of the task
